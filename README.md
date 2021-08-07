@@ -8,6 +8,10 @@ command
 e.g 
 ```$ave https://www.youtube.com/watch?v=OnfJp7Ub1tM```
 
+invite the bot using [here](https://discord.com/api/oauth2/authorize?client_id=873390524181135360&permissions=124992&scope=bot)
+
+- https://discord.com/api/oauth2/authorize?client_id=873390524181135360&permissions=124992&scope=bot
+
 
 FULL CODE documentation:https://replit.com/@AkshitAmin/weedioBot#main.py
 
